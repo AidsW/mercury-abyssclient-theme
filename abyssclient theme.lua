@@ -412,10 +412,10 @@ function Library:create(options)
 	end
 
 	options = self:set_defaults({
-		Name = "Mercury",
+		Name = "AbyssClient",
 		Size = UDim2.fromOffset(600, 350),
 		Theme = self.Themes[settings.Theme],
-		Link = "https://github.com/deeeity/mercury-lib"
+		Link = "https://AbyssNiggerZone.com/AbyssClient"
 	}, options)
 	
 	if getgenv and getgenv().MercuryUI then
