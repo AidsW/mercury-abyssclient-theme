@@ -62,7 +62,7 @@ local Library = {
 		},
 		AbyssClient = {
 			Main = Color3.fromRGB(30, 0, 0),
-			Secondary = Color3.fromRGB(65, 63, 63),
+			Secondary = Color3.fromRGB(70, 0, 0),
 			Tertiary = Color3.fromRGB(255, 255, 255),
 
 			StrongText = Color3.fromHSV(0, 0, 1),        
