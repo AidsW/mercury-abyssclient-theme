@@ -61,12 +61,12 @@ local Library = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
 		AbyssClient = {
-            		Main = Color3.fromRGB(100,0,0),
-			Secondary = Color3.fromRGB(32,32,32),
-			Tertiary = Color3.fromRGB(40,40,40),
+            		Main = Color3.fromRGB(30,0,0),
+			Secondary = Color3.fromRGB(50,0,0),
+			Tertiary = Color3.fromRGB(70,0,0),
 
 			StrongText = Color3.fromHSV(0,0,100),        
-			WeakText = Color3.fromHSV(0, 0, 172/255)
+			WeakText = Color3.fromHSV(0, 0, 100/100)
 		},
 		OperaGX = {},
 		VisualStudio = {}
