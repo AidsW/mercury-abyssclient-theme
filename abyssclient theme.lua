@@ -61,7 +61,7 @@ local Library = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
 		AbyssClient = {
-            Main = Color3.fromRGB(20,20,20),
+            		Main = Color3.fromRGB(100,0,0),
 			Secondary = Color3.fromRGB(32,32,32),
 			Tertiary = Color3.fromRGB(40,40,40),
 
